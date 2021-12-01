@@ -1,6 +1,6 @@
 # Short_story_Data_Mining
 
-# Research Paper Link: file:///Users/priyanka/Downloads/FSentimentAnalysisonLargeScaleAmazonProductReview%20(1).pdf
+# Research Paper Link: https://drive.google.com/file/d/1o7b3vxTTDEMaH82M0HoBqA89bW7HoR6n/view?usp=sharing
 
 # Medium Article link: https://medium.com/@priyanka.devendran/sentiment-analysis-on-amazon-product-reviews-50025adc56e0
 
